@@ -10,7 +10,7 @@ https://fraud-detection-ml-zamjhk3tdnmw2n4xdvhvr7.streamlit.app/
 - Pandas
 - NumPy
 
-- ##Features
+##Features
 - Detect fraudulent transactions
 - ML prediction
 - User-friendly web interface
